@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Phishing-Simulation-red?style=flat-square">
-  <img src="https://img.shields.io/badge/Mailgun/API-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Tracking-Enabled-orange?style=flat-square">
 </p>
 
@@ -24,7 +23,7 @@
 
 | Feature                | Description                                                        |
 |------------------------|--------------------------------------------------------------------|
-| 📬 SMTP & Mailgun      | Send via custom SMTP or Mailgun HTTP API                           |
+| 📬 SMTP & Mailgun      | Send via custom SMTP or Brevo                                      |
 | 📝 .eml Import         | Load realistic email templates with formatting preserved           |
 | 🖼️ Email Preview       | Preview email before sending (subject, HTML body, attachments)     |
 | 📎 Attachment Support  | Send payloads, decoys, or lures via file attachments               |
